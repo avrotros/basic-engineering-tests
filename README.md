@@ -8,6 +8,7 @@ Je mag de opdrachten maken in de programmeertaal waar je comfortabel mee bent.
 
 - [tellen tot 100](opdrachten/tellen-tot-100/README.md)
 - [zoek in array](opdrachten/zoek-in-array/README.md)
+- [full stack](opdrachten/full-stack/README.md)
 
 ## Inleveren van je opdracht
 
